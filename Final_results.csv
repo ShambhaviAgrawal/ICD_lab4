@@ -1,0 +1,4 @@
+,adder_1bit,Barrel_shifter,binary_multiplier,FSM_mealy,FSM_moore,logic_gate,ripple_adder,shifter,universal_register
+Power,1.034,1.389,13.717,0.338,0.394,1.389,1.389,1.408,1.898
+Delay,5.896,6.233,11.621,4.356,4.204,6.233,6.233,4.419,4.304
+LUTs,1.0,4.0,68.0,5.0,5.0,4.0,4.0,3.0,9.0
